@@ -1,0 +1,171 @@
+*{
+	font-family: poppins;
+}
+body{
+	background: #e5e5e5;
+	margin: 0  ;
+}
+.kepala{ 
+	width: 100%;
+	height: 60px;
+	padding: 0 0 20px 0px;
+	margin: 0;
+	position: relative;	
+	background: #0e00ff;
+	box-sizing: border-box;
+}
+.logo{
+	color: #fff;
+	font-size: 26px;
+	margin-left: 20px;
+}
+a{
+	text-decoration: none;
+}
+.kepala ul {
+	list-style: none;
+	margin-left: -32px;
+}
+.kepala ul a li{
+	float: left;
+	margin: 0 6px 6px 6px;
+	padding: 6px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 13px;
+	text-decoration: none;
+}
+.kepala ul a li:hover{
+	color: #e69800;
+	transition: 0.3s;
+}
+.banner{
+	background: linear-gradient(90deg, rgba(14,0,255,0.3785889355742297) 100%, rgba(0,126,152,1) 100%), url("../gambar/test.jpeg");
+	width: 100%;
+	height: 375px;
+	margin: 0;
+	position: relative;
+	background-size: cover;
+	padding-top: 200px;
+}
+
+.kata{
+	width: 800px;
+	height: auto;
+	font-size: 35px;
+	color: #fff;
+	font-style: italic;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 50px;
+}
+.kata2{
+	width: 800px;
+	height: auto;
+	font-size: 40px;
+	color: #fff;
+	font-weight: 600;
+	margin: 0 auto;
+	text-align: center;
+}
+.konten{
+	width: 1200px;
+	min-height: 400px;
+	height: auto;
+	position: relative;
+	background: #fff;
+	padding: 10px;
+	margin: 20px auto 20px auto;
+}
+.kaki{
+	width: 100%;
+	height:20px;
+	position: relative;
+	background: #0e00ff;
+	color: #fff;
+	font-size: 13px;
+	text-align: center;
+	margin: 20px 0 0 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.tambah{
+	border-radius: 5px;
+	color: #fff;
+	padding: 7px 10px;
+	background: #0e00ff;
+}
+.sambutan{
+	padding: 0 60px 30px 0;
+}
+.tambah:hover{
+	background: #0900a7;
+	transition: 0.3s;
+}
+.linemepet{
+	margin-bottom: 20px;
+}
+.ubah{
+	margin: 5px 0 5px 5px;
+	background-color: #6EE066;
+	color: #fff;
+	padding: 7px 10px;
+	border-radius: 5px;
+}
+.ubah:hover{
+	background-color: #0db400;
+	transition: 0.3s;
+}
+.hapus{
+	margin: 5px 0 5px 5px;
+	background-color: #ff1a1a;
+	color: #fff;
+	padding: 7px 10px;
+	border-radius: 5px;
+}
+.hapus:hover{
+	background-color: #c70000;
+	transition: 0.3s;
+}
+.user{
+	padding: 10px 0;
+}
+
+
+/* Login */
+
+
+
+
+.title{
+	color: #373737;
+}
+		
+.bungkus {
+	width: 250px;
+	height: auto;
+	min-height: 150px;
+	background: #1C9BFF;
+	margin: 10% auto;
+	padding: 20px 10px;
+}
+.button {
+	width: 100%;
+	padding: 5px 0 5px 5px;
+	background: #6EE066;
+	border: none;
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+.form {
+
+	width: 100%;
+	height: 35px;
+	background: #FFF;
+	border: none;
+	border-radius: 10px;
+}
+form {
+	margin-top: 10px;
+}
