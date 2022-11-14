@@ -1,4 +1,4 @@
-<h4>Daftar Kegiatan Anam</h4>
+<h4>Daftar Kegiatan</h4>
 <hr class="linemepet">
 <a href=".?page=tkegiatan" class="tambah">Tambah Kegiatan</a>
 <br>
